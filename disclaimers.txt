@@ -1,0 +1,16 @@
+Disclaimers: 
+
+-all values are approximate
+-certain functions cannot accept values which are
+ outside graph boundaries (it is possible to change
+ these boundaries under settings)
+-if your graph is not continuous, accurate results
+ are not guaranteed; in fact, errors are likely
+-if you enter an invalid expression, the program will
+ still run - however, the result will not be what
+ you intend
+-USE RESPONSIBLY (if you try to create errors, then 
+ you will get errors)
+
+FML-Instruments and its employees are not responsible
+for any consequences of using the FML-NSpire.

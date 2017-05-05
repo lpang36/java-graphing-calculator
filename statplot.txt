@@ -1,0 +1,2 @@
+Specific functions supported by the Stat Plot tab: 
+

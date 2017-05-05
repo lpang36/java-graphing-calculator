@@ -1,0 +1,14 @@
+Credits: 
+
+Lawrence Pang - Department of Mathematics and Computer Science
+Matthew Chiang - Department of Statistics
+Frederick Ngo - Department of Graphic Design
+
+Rene Brossard - Supervising Director
+
+Special thanks to Bingran Li, Nicholas Vadivelu, Jason Huang, and others.
+
+©FML Instruments, 2015
+
+This program is written in Java.
+

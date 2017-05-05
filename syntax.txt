@@ -1,0 +1,9 @@
+Useful tips when entering expressions: 
+
+-the only variable supported is lower-case x
+-ensure proper bracketing
+-always use brackets following a function (e.g. sin(x)
+ as opposed to sin x)
+-use the function neg(x) for negatives; DO NOT use
+ the minus sign
+-DO NOT begin numbers with the decimal point .

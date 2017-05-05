@@ -1,0 +1,15 @@
+Specific functions supported by the graphing calculator tab:
+
+The following can be accessed via the menu.
+
+Trace - given a value x, returns f(x)
+Minimum - given an upper and lower bound, returns the minimum value
+Maximum - given an upper and lower bound, returns the maximum value
+Zeros - given an upper and lower bound, attempts to find any zeros
+	within that range (if there are multiple zeros, the lowest 
+	zero will be returned)
+Derivative - given a value x, returns df(x)/dx
+Integral - given an upper and lower bound, returns the definite
+	   integral with the bounds as a and b
+
+All values are approximate.

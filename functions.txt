@@ -1,0 +1,14 @@
+General functions supported by the FML-NSpire:
+
+sin(x) - in radians
+cos(x) - in radians
+tan(x) - in radians
+ln(x) - natural logarithm
+sqrt(x) - square root
+neg(x) - returns the negative of x (use this instead of the minus sign)
+
+General constants supported by the FML-NSpire:
+
+e - Euler's number, approximately equal to 2.71828
+pi - approximately equal to 3.14159
+ans - the previous value calculated

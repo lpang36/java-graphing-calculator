@@ -1,0 +1,5 @@
+Navigation:
+
+-if there is a number beside an option, press
+ that number to execute that option
+-otherwise, follow instructions
