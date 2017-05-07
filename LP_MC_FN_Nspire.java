@@ -1,4 +1,4 @@
-// The "PL_NSpire" class.
+// The "LP_NSpire" class.
 import java.awt.*;
 import hsa.Console;
 import javax.imageio.*;
